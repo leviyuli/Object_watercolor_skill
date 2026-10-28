@@ -1,0 +1,4 @@
+interface:
+  display_name: "Object Watercolor"
+  short_description: "Small watercolor sketches from your photos"
+  default_prompt: "Use $object-watercolor to turn this photo into a small, naive watercolor-and-crayon sketch with generous off-white paper space."
